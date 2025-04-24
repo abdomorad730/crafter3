@@ -4,11 +4,7 @@
   "description": "",
   "author": "",
   "private": true,
-  "main": "main.js",
   "license": "UNLICENSED",
-  "engines": {
-    "node": "20.11.0"
-  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
