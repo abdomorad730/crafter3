@@ -4,7 +4,7 @@
   "description": "",
   "author": "",
   "private": true,
-  "main": "dist/main.ts",
+  "main": "dist/main.js",
   "license": "UNLICENSED",
   "engines": {
     "node": "20.11.0"
